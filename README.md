@@ -1,41 +1,41 @@
 # GForest 🌳
 
-**GForest**, kullanıcıların dosya, klasör, uygulama veya internet sitesi gibi herhangi bir kaynağın kısayolunu kaydedip düzenleyebileceği modern ve kullanıcı dostu bir araçtır. Bu uygulama, sık kullanılan öğelere kolay erişim sağlamak için tasarlanmıştır.
+**GForest** is a modern and user-friendly tool with which users can save and edit the shortcut of any resource such as a file, folder, application or website. This application is designed to provide easy access to frequently used items.
 
-## Özellikler
+## Features
 
-- **Kısayol yönetimi**: İstediğiniz dosya, klasör veya bağlantıyı kaydedin.
-- **Modern arayüz**: Kullanıcı dostu ve sade bir tasarım.
-- **Esneklik**: Tüm dosya türleri ve bağlantılar desteklenir.
+- **Shortcut management**: Save the file, folder or link you want.
+- **Modern interface**: User-friendly and simple design.
+- **Flexibility**: All file types and links are supported.
 
 
-## Kullanım
+## Usage
 
-### 1- Depoyu Klonlayın
+### 1- Clone the Repository
 
 ```bash
 git clone https://github.com/e500ky/GForest.git
 cd GForest
 ```
 
-### 2- Gereksinimleri Yükleyin
+### 2- Install Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3- Uygulamayı Başlatın
+### 3- Start the Application
 ```bash
 python main.py
 ```
 
-### 4- Kısayollarınızı Yönetin
+### 4- Manage Your Shortcuts
 
-- İstediğiniz dosya, uygulama veya bağlantıyı kaydedin ve kolayca erişin.
+- Save any file, application or link you want and access it easily.
 
-## Gereksinimler
+## Requirements
 
-Bu projenin çalışması için aşağıdaki bağımlılıkları yüklemeniz gerekir:
+For this project to work, you need to install the following dependencies:
 
 ```bash
 pip install -r requirements.txt
