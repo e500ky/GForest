@@ -1,0 +1,135 @@
+{
+  "youtube": {
+    "keywords": [
+      "https://youtube.com",
+      "https://www.youtube.com",
+      "http://www.youtube.com",
+      "http://youtube.com"
+    ],
+    "icon": "https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+    "dir": "https://youtube.com",
+    "type": "URL",
+    "name": "youtube"
+  },
+  "instagram": {
+    "keywords": [
+      "https://instagram.com",
+      "https://www.instagram.com",
+      "http://www.instagram.com",
+      "http://instagram.com"
+    ],
+    "icon": "https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png",
+    "dir": "https://instagram.com",
+    "type": "URL",
+    "name": "instagram"
+  },
+  "google": {
+    "keywords": [
+      "https://google.com",
+      "https://www.google.com",
+      "http://www.google.com",
+      "http://google.com"
+    ],
+    "icon": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png",
+    "dir": "https://google.com",
+    "type": "URL",
+    "name": "google"
+  },
+  "facebook": {
+    "keywords": [
+      "https://facebook.com",
+      "https://www.facebook.com",
+      "http://www.facebook.com",
+      "http://facebook.com"
+    ],
+    "icon": "https://static.vecteezy.com/system/resources/previews/018/930/476/non_2x/facebook-logo-facebook-icon-transparent-free-png.png",
+    "dir": "https://facebook.com",
+    "type": "URL",
+    "name": "facebook"
+  },
+  "riot": {
+    "keywords": ["C:/Riot Games/Riot Client/RiotClientServices.exe", "riot"],
+    "icon": "https://img.icons8.com/?size=512&id=V1Ja402KSwyz&format=png",
+    "dir": "C:/Riot Games/Riot Client/RiotClientServices.exe",
+    "type": "Game",
+    "name": "riot"
+  },
+  "vscode": {
+    "keywords": [
+      "C:/Users/Fırat/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+    ],
+    "icon": "https://cinnamon-spices.linuxmint.com/files/actions/vscode-launcher@vajdao.png",
+    "dir": "C:/Users/%USERNAME%/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+    "type": "Application",
+    "name": "vscode"
+  },
+  "github": {
+    "keywords": [
+      "https://github.com",
+      "http://github.com",
+      "https://www.github.com",
+      "http://www.github.com"
+    ],
+    "icon": "https://img.icons8.com/m_sharp/200/FFFFFF/github.png",
+    "dir": "https://github.com",
+    "type": "URL",
+    "name": "github"
+  },
+  "x": {
+    "keywords": [
+      "https://x.com",
+      "http://x.com",
+      "https://www.x.com",
+      "http://www.x.com"
+    ],
+    "icon": "https://i.pinimg.com/564x/f6/68/90/f66890653a1275aa5b742387233f4243.jpg",
+    "dir": "https://x.com",
+    "type": "URL",
+    "name": "x"
+  },
+  "twitter": {
+    "keywords": [
+      "https://twitter.com",
+      "http://twitter.com",
+      "https://www.twitter.com",
+      "http://www.twitter.com"
+    ],
+    "icon": "https://i.pinimg.com/564x/f6/68/90/f66890653a1275aa5b742387233f4243.jpg",
+    "dir": "https://twitter.com",
+    "type": "URL",
+    "name": "twitter"
+  },
+  "minecraft": {
+    "keywords": ["minecraft"],
+    "icon": "https://external-preview.redd.it/INBHMCNdcPNCBvgGn3yQ-RH4jiAhFP4bde7-wCC2xiw.png?auto=webp&s=7fbcf884991ea6c916da84752af364fbf962687b",
+    "type": "Game",
+    "dir": "none",
+    "name": "minecraft"
+  },
+  "valorant": {
+    "keywords": ["valorant"],
+    "icon": "https://img.icons8.com/color/512/valorant.png",
+    "dir": "C:/Riot Games/Riot Client/RiotClientServices.exe",
+    "type": "Game",
+    "name": "valorant"
+  },
+  "steam": {
+    "keywords": ["steam", "C:/Program Files (x86)/Steam/steam.exe"],
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png",
+    "dir": "C:/Program Files (x86)/Steam/steam.exe",
+    "type": "Game",
+    "name": "steam"
+  },
+  "epicgame": {
+    "keywords": [
+      "epic",
+      "epic games",
+      "epicgames",
+      "C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe"
+    ],
+    "icon": "https://cdn2.steamgriddb.com/logo/ef469da55386b89993b2b644f5ba5140.png",
+    "dir": "C:/Program Files (x86)/Steam/steam.exe",
+    "type": "Game",
+    "name": "epic games"
+  }
+}

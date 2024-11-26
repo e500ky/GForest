@@ -1,0 +1,10 @@
+{
+  "timeout.duration": 3,
+  "theme": {
+    "font.family": "Sans-Serif",
+    "button": {
+      "color.fg": "#9a7ed6",
+      "color.hover": "#a38cd4"
+    }
+  }
+}
